@@ -1,0 +1,16 @@
+[
+  {
+    "vendor": "Northwind Analytics",
+    "renewal_date": "2026-12-01",
+    "notice_days": 30,
+    "count_mode": "calendar",
+    "buffer_days": 2
+  },
+  {
+    "vendor": "Harbor Seats",
+    "renewal_date": "2026-11-16",
+    "notice_days": 10,
+    "count_mode": "business",
+    "buffer_days": 0
+  }
+]
